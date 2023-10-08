@@ -1,3 +1,4 @@
+[System.Environment]::SetEnvironmentVariable("CPLUS_INCLUDE_PATH", "C:/Users/herre/Desktop/code-2023/igloo-2", [System.EnvironmentVariableTarget]::User)
 # Display a welcome message
 # Write-Host (Get-Content C:\Users\herre\Documents\welcome.csv)
 # Write-Host
